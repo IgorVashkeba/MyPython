@@ -1,5 +1,5 @@
 # Это игра по угадыванию чисел
-import random
+import random 
 
 attNumber = 0
 
